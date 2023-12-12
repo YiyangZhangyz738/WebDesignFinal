@@ -6,7 +6,7 @@
 Multimedia Communications - Fall 2023 instructed by Kate Alexandrite at Duke University.
 - **Acknowledgments**: Thanks to Kate for guiding my project. Thanks for Yili Wen and Ellen Yang's encouragement and feedback. And thanks to all VMS 240 students for their suggestions and comments.
 - **Project Summary**: 
-  - This is a web text adventure game with the theme of escape from the resort. There are three main interactive sessions with four different endings.
+  - This is a web text adventure game with the theme of escape from the resort. There are three main interactive sessions with four different endings. You need to install all fonts to get the full visual effect.
 
 ## Insparation
 文字游戏 Word Game
