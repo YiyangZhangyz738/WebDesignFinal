@@ -1,5 +1,12 @@
 # WebDesignFinal
-##
+## Project information
+- **Author**: Yiyang Zhang, Computation and Design with tracks in Digital Media, Class of 2025, Duke Kunshan University
+- **Instructor**: Kate Alexandrite, Duke University
+- **Disclaimer**: Submissions to the Final Project for ISS, VMS, CMAC 240S & 740S: Fundamentals of Web-Based
+Multimedia Communications - Fall 2023 instructed by Kate Alexandrite at Duke University.
+- **Acknowledgments**: Thanks to Kate for guiding my project. Thanks for Yili Wen and Ellen Yang's encouragement and feedback. And thanks to all VMS 240 students for their suggestions and comments.
+- **Project Summary**: 
+  - This is a web text adventure game with the theme of escape from the resort. There are three main interactive sessions with four different endings.
 
 ## Insparation
 文字游戏 Word Game
